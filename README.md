@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dylan Mendes
 ====================================================================================================================================
 
-Recent Computer Science Graduate
---------------------------------
-
-<p>Hi there, welcome to my GitHub ReadMe page! I'm a recent graduate with a bachelor's degree in chemistry and a strong foundation in problem-solving and analytical thinking. My skills include programming languages such as PHP, SQLite, JavaScript, Python, PyTorch, matplotlib, Bash, and MATLAB. I'm also proficient in operating systems like Windows 10, Mac OS X, Linux, and High-Performance Computers (HPC), and have experience in web design, having designed the UMD ACS website. </p>
+<p>Hi there, welcome to my GitHub ReadMe page! I work as a government contractor to NASA as a Senior Application Developer. My skills include programming languages such as PHP, SQLite, JavaScript, Python, PyTorch, matplotlib, Bash, and MATLAB. I'm also proficient in operating systems like Windows, Mac OS X, Linux, and High-Performance Computers (HPC), and have experience in web design. Please contact me to hear more about my experience. 
+</p>
 <p>I'm seeking opportunities in computational science, data science, software engineering, and research and design, where I can apply my skills and passion for helping to drive innovative solutions. With my Googling proficiency and programming language experience, I can contribute to improvement in any organization. </p>
 <p>I'm excited about the future and always seek new opportunities to learn and grow. Feel free to check out my GitHub profile for more information and examples of my work!</p>
 
 * 🌍  I'm based in Washington-DC/Baltimore Metro Areas
 * ✉️  You can contact me at [mendesdylan02@gmail.com](mailto:mendesdylan02@gmail.com)
-* 🧠  I'm learning LLM Manipulation and Frontend/Backend Libraries
+* 🧠  I'm learning Swift at the moment!
 * 🤝  I'm open to collaborating on anything!
 
 ### Skills
